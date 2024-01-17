@@ -1,5 +1,5 @@
 {
-    "name": "exe/root",
+    "name": "executable/root",
     "autoload": {
         "psr-4": {
             "Exe\\Root\\": "src/"
