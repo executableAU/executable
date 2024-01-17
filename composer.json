@@ -1,0 +1,14 @@
+{
+    "name": "exe/root",
+    "autoload": {
+        "psr-4": {
+            "Exe\\Root\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Executable"
+        }
+    ],
+    "require": {}
+}
